@@ -6,3 +6,4 @@ git commit
 git remove
 複数ファイルのコミット
 git status
+git diff
